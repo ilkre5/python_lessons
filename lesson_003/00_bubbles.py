@@ -22,3 +22,4 @@ sd.resolution = (1200, 600)
 sd.pause()
 
 
+# аропвыои
